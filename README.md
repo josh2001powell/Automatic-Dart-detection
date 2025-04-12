@@ -2,6 +2,11 @@
 
 Video of application performing in real time - https://youtu.be/dTInsJrYwOI
 
+
+Full code.py is the entire python file that functions as an application weith working GUI.
+To understand each component more easily, see the step breakdown.
+
+
 Code to work with a single camera for scoring a game of darts
 
 
